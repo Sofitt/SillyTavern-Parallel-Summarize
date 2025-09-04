@@ -1,14 +1,14 @@
 {
-    "display_name": "qvink_memory",
+    "display_name": "qvink_memory (parallel support)",
     "loading_order": 1,
     "requires": [],
     "optional": [],
     "minimum_client_version": "1.13.2",
     "js": "index.js",
     "css": "style.css",
-    "author": "qvink",
+    "author": "qvink + Sofit",
     "version": "1.2.7",
-    "homePage": "https://github.com/qvink/qvink_memory.git",
+    "homePage": "https://github.com/Sofitt/SillyTavern-Parallel-Summarize.git",
     "generate_interceptor": "memory_intercept_messages",
     "i18n": {
         "zh-tw": "locales/zh-tw.json"
